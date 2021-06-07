@@ -1,0 +1,24 @@
+Its actually really simple.
+
+- [ ] Download and install AHK
+- [ ] Download my script attached to this message
+- [ ] Download Mofikis Coordinate Finder (http://www.mofiki.com/mwwsites/MofikiWorldWide/Mofikis-Coordinate-Finder.php)
+- [ ] Open Mofikis Coordinate Finder
+- [ ] Position your mouse where your top-left corner of your pop-out screen should be
+- [ ] Hit space and check Mofikis Coordinate Finder
+- [ ] Open my downloaded script with Notepad or similar
+- [ ] Adjust the X-Position and Y-Position to the coordinates from Mofikis
+- [ ] Adjust the X-Size and Y-Size with the desired pop-out size. I am using 550 for my case
+- [ ] Adjust the shortcuts ^q:: to match your desired key. This is CTRL + q in the example. The last command inside the config is to remove the borders.
+- [ ] After all adjustments save the file
+
+Now the regular "doing":
+- [ ] Execute the script file. You will just see a small "H" symbol in the taskbar.
+- [ ] Open MSFS and pop out all your windows you want to move. Make sure that all windows are in a separate pop out screen (all magnifying glasses clicked :wink: )
+- [ ] Click inside the window you want to move, hit the shortcut (e.g. CTRL + q) and your window will be resized and moved to the position, defined inside the script file.
+- [ ] Hit the shortcut to remove the borders (last command in the script file, in my example CTRL + z). Make sure to press it looooong, until the window borders are completely gone. Note that the window will be increased in size a little.
+- [ ] Repeat for all windows
+
+Let me know if you struggle with any step.
+
+Discord: https://discord.com/channels/608690978081210392/745361245808492584/844605364683276288
