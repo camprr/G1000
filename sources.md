@@ -22,7 +22,7 @@
   
 ## Controls
   ### The 'button' switches are simple 6x6x5mm large switches:
-    I bought them from here, but because they were available in Spain, rather than China: https://nl.aliexpress.com/item/4001027531274.html
+  I bought them from here, but because they were available in Spain, rather than China: https://nl.aliexpress.com/item/4001027531274.html
   ### The dual-axis encoders have three options (You need 5 per screen):
   - with switches can be made by 3d printing a 'complicated' construction and using single-encoders: https://www.thingiverse.com/thing:4373531
   - or you can just order the $7 Aliexpress ones: https://nl.aliexpress.com/item/33052809089.html  TODO: do these work?
