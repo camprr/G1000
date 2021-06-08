@@ -43,27 +43,37 @@
 # TBM930
 ## The TBM930 alarm and warning buttons can be found here:
   https://www.amazon.co.uk/gp/product/B08KGX2Z4D
+  
   https://www.amazon.co.uk/gp/product/B0744QQK1N
+  
   TODO: Do they work?
   
 ## The small GTC 580 controllers 
   I have found a 5.7" screen with a touch-screen overlay: https://nl.aliexpress.com/item/1005002039170485.html
+  
   You will need an LVDS controller they are 'abound' on aliexpress: https://www.google.com/search?q=lvds+60+pin+hdmi+controller+aliexpress (make sure it suppors the resolution/interface!).
+  
   You will also need an i2c toucscreen cotroller. I have not been able to find on with 8-pin connector, 6-pin is more usual: https://nl.aliexpress.com/item/32794187793.html
+  
   You will also need 3 switches (probably 6x6x5mm) and a dual-rotary encoder and a single rotary encoder (see Generic section)
+  
   Minor hurdle, how do you match the touch-screen to the corrrect screen in widows. Like this, apparently: https://support.ctouch.eu/hc/en-us/articles/115003949829-How-can-I-setup-multiple-touch-screens-in-Windows-10-
+  
   Currently waiting for the description of how to extract 3D models from the Flightsimulator 3D files. (Using Blender?)
   
 ## GMC710 autopilot control panel
   There is a 'guy'in China that makes these: https://x-plane.vip/quickmade/qgmc710/  There is a 'take apart' https://github.com/quickmake/QGMC710 video of this: https://youtu.be/2CzTYQhQLbA  I plan to modify this to run with a Mega 2560 to make it FS2020 compatible. Currently the LEDs have some specific Xplane11 inmplementation.
+  
   Aviatec make them at $765 a pop: https://aviatek.com/products/av-gmc710
   
 
 ## De-icing panel 
   Available here: https://www.thingiverse.com/thing:4625864
+  
   (Hardware?)
+  
   
 ## Parking brake
   Available here: https://www.thingiverse.com/thing:4032512
-  (Hardware??
   
+  (Hardware??
