@@ -83,3 +83,25 @@
   Together with this controller: https://www.displaymodule.com/products/display-adapter-for-hdmi-to-mipi-dsi?variant=31902301421666
   No touch screen needed.
   TODO: Extract the 3D model from the FS2020 library.
+  
+  
+  
+  
+  
+  
+Interesting information I still have to put somewhere:
+[VCockpit03]
+size_mm=512,350
+pixel_size=512,350
+texture=$AttitudeDisplay
+background_color=42,42,40
+
+htmlgauge00=NavSystems/AS1000_BackupDisplay/Attitude/AS1000_AttitudeBackup.html, 0,0,512,350
+
+[VCockpit04]
+size_mm=512,350
+pixel_size=512,350
+texture=$SpeedDisplay
+background_color=42,42,40
+
+htmlgauge00=NavSystems/AS1000_BackupDisplay/Speed/AS1000_SpeedBackup.html, 0,0,512,350
