@@ -1,5 +1,10 @@
 # G1000/generic:
 
+## Print files:
+  G1000 basic 12" and 10": https://www.thingiverse.com/thing:4019943
+  Audio panel: https://www.thingiverse.com/thing:4017503
+  Parking brake: https://www.thingiverse.com/thing:4017174
+
 ## The 10.2/4" displays are of the type: VS104T-003A 
   https://www.amazon.com/dp/B07WCH53TK
   https://www.aliexpress.com/i/4000156062102.html
@@ -24,12 +29,15 @@
 ## Controls
   ### The 'button' switches are simple 6x6x5mm large switches:
   I bought them from here, but because they were available in Spain, rather than China: https://nl.aliexpress.com/item/4001027531274.html
-  ### The dual-axis encoders have three options (You need 5 per screen):
+  ### The dual-axis encoders have three options (You need 4 per screen):
   - with switches can be made by 3d printing a 'complicated' construction and using single-encoders: https://www.thingiverse.com/thing:4373531
   - or you can just order the $7 Aliexpress ones: https://nl.aliexpress.com/item/33052809089.html  TODO: do these work?
   - or the really expensive Leobodnar verion: http://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=98_75&products_id=196
-  ### For the single-encoders with push-button (volume and HDG) you need the EC11 type at 15mm high and 'D'-shaped: https://nl.aliexpress.com/item/32856068930.html
-  ### For the pan/tilt button you need to either get a really expensive ALPS one (no link, sorry) or 'create' one: https://www.thingiverse.com/thing:4222606
+  ### For the single-encoders 
+    with push-button (volume and HDG) you need the EC11 type at 15mm high and 'D'-shaped: https://nl.aliexpress.com/item/32856068930.html
+    You need 5 per screen. (HDG, ALT, Vol 1, Vol 2 and Pan/Tilt)
+  ### For the pan/tilt button 
+    you need to either get a really expensive ALPS one (no link, sorry) or 'create' one: https://www.thingiverse.com/thing:4222606 It uses a single EC11 and 4 switches. 
   
   
 # TBM930
@@ -38,10 +46,21 @@
   https://www.amazon.co.uk/gp/product/B0744QQK1N
   TODO: Do they work?
   
-## The small TLC 580 controllers 
+## The small GTC 580 controllers 
   I have found a 5.7" screen with a touch-screen overlay: https://nl.aliexpress.com/item/1005002039170485.html
   You will need an LVDS controller they are 'abound' on aliexpress: https://www.google.com/search?q=lvds+60+pin+hdmi+controller+aliexpress (make sure it suppors the resolution/interface!).
   You will also need an i2c toucscreen cotroller. I have not been able to find on with 8-pin connector, 6-pin is more usual: https://nl.aliexpress.com/item/32794187793.html
   You will also need 3 switches (probably 6x6x5mm) and a dual-rotary encoder and a single rotary encoder (see Generic section)
   Minor hurdle, how do you match the touch-screen to the corrrect screen in widows. Like this, apparently: https://support.ctouch.eu/hc/en-us/articles/115003949829-How-can-I-setup-multiple-touch-screens-in-Windows-10-
+  
+## GMC710 autopilot control panel
+  There is a 'guy'in China that makes these: https://x-plane.vip/quickmade/qgmc710/  There is a 'take apart' https://github.com/quickmake/QGMC710 video of this: https://youtu.be/2CzTYQhQLbA  I plan to modify this to run with a Mega 2560 to make it FS2020 compatible. Currently the LEDs have some specific Xplane11 inmplementation.
+  Aviatec make them at $765 a pop: https://aviatek.com/products/av-gmc710
+  
+
+## De-icing panel 
+  Available here: https://www.thingiverse.com/thing:4625864
+  
+## Parking brake
+  Available here: https://www.thingiverse.com/thing:4032512
   
