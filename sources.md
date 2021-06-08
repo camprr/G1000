@@ -19,6 +19,7 @@
   https://secure.reichelt.nl/nl/nl/inpersgereedschap-voor-d-sub-en-pfl-mwz-214-p13300.html
   The 40 conductor wire can also be 'stripped down' to make a 34 conductor one, so save youself some hastle and just order the 40 strand one:
   https://secure.reichelt.nl/nl/nl/vlakbandkabel-awg28-40-pol-grijs-3m-ring-awg-28-40g-3m-p47647.html
+  Please install the serial drivers for this 'mega': https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
   
 ## Controls
   ### The 'button' switches are simple 6x6x5mm large switches:
