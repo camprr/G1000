@@ -76,3 +76,10 @@
   Available here: https://www.thingiverse.com/thing:4032512
   
   (Hardware??
+  
+## Speed and attitude display
+  Looking to see this 'relativly' small display at the left-top of the cockpit showing speed/attitude.
+  It could be done using this display: https://www.displaymodule.com/products/5-5-1440x2560-high-resolution-with-2-channel-mipi-for-vr-tft-lcd-mipi
+  Together with this controller: https://www.displaymodule.com/products/display-adapter-for-hdmi-to-mipi-dsi?variant=31902301421666
+  No touch screen needed.
+  TODO: Extract the 3D model from the FS2020 library.
