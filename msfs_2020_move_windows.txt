@@ -22,3 +22,8 @@ Now the regular "doing":
 Let me know if you struggle with any step.
 
 Discord: https://discord.com/channels/608690978081210392/745361245808492584/844605364683276288
+
+
+Alternativly, when you have moved the screen to another monitor, press Alt-Enter, and it should maximise without a bar at the top.
+
+And I saw a hint somewhere that if your framerate drops, switch off f-sync, that should help.
