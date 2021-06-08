@@ -13,8 +13,7 @@
 ## Arduino compatible mega-pro 2560:
   https://secure.reichelt.nl/nl/nl/arduino-compatibel-mega-2560-pro-board-ard-mega2560-pro-p299355.html
   The form-factor of this board is 'better' suited to hiding behind panels, plus it has a micro-connector which is more usual nowadays.
-  Because the mega-pro 2560 does not contain a USB-Serial chip, you will need a USB<>serial converter. I got this one:
-  https://secure.reichelt.nl/nl/nl/raspberry-pi-usb-ttl-interfaceomvormer-ch340g-debo-usb-ttl-p266106.html
+  It also has rows of IDC-format pins that are great for attaching whole bunches of cables. :-) https://en.wikipedia.org/wiki/Insulation-displacement_connector
   
 ## Wiring 'loom'
   To construct the wiring, I have opted to go for 34/40 IDC connectors with flat-cables and the tool to 'crimp' them onto the connector.
