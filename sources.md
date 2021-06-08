@@ -34,10 +34,10 @@
   - or you can just order the $7 Aliexpress ones: https://nl.aliexpress.com/item/33052809089.html  TODO: do these work?
   - or the really expensive Leobodnar verion: http://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=98_75&products_id=196
   ### For the single-encoders 
-    with push-button (volume and HDG) you need the EC11 type at 15mm high and 'D'-shaped: https://nl.aliexpress.com/item/32856068930.html
-    You need 5 per screen. (HDG, ALT, Vol 1, Vol 2 and Pan/Tilt)
+  with push-button (volume and HDG) you need the EC11 type at 15mm high and 'D'-shaped: https://nl.aliexpress.com/item/32856068930.html
+  You need 5 per screen. (HDG, ALT, Vol 1, Vol 2 and Pan/Tilt)
   ### For the pan/tilt button 
-    you need to either get a really expensive ALPS one (no link, sorry) or 'create' one: https://www.thingiverse.com/thing:4222606 It uses a single EC11 and 4 switches. 
+  you need to either get a really expensive ALPS one (no link, sorry) or 'create' one: https://www.thingiverse.com/thing:4222606 It uses a single EC11 and 4 switches. 
   
   
 # TBM930
@@ -52,6 +52,7 @@
   You will also need an i2c toucscreen cotroller. I have not been able to find on with 8-pin connector, 6-pin is more usual: https://nl.aliexpress.com/item/32794187793.html
   You will also need 3 switches (probably 6x6x5mm) and a dual-rotary encoder and a single rotary encoder (see Generic section)
   Minor hurdle, how do you match the touch-screen to the corrrect screen in widows. Like this, apparently: https://support.ctouch.eu/hc/en-us/articles/115003949829-How-can-I-setup-multiple-touch-screens-in-Windows-10-
+  Currently waiting for the description of how to extract 3D models from the Flightsimulator 3D files. (Using Blender?)
   
 ## GMC710 autopilot control panel
   There is a 'guy'in China that makes these: https://x-plane.vip/quickmade/qgmc710/  There is a 'take apart' https://github.com/quickmake/QGMC710 video of this: https://youtu.be/2CzTYQhQLbA  I plan to modify this to run with a Mega 2560 to make it FS2020 compatible. Currently the LEDs have some specific Xplane11 inmplementation.
@@ -60,7 +61,9 @@
 
 ## De-icing panel 
   Available here: https://www.thingiverse.com/thing:4625864
+  (Hardware?)
   
 ## Parking brake
   Available here: https://www.thingiverse.com/thing:4032512
+  (Hardware??
   
