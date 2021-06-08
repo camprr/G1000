@@ -20,9 +20,27 @@
   The 40 conductor wire can also be 'stripped down' to make a 34 conductor one, so save youself some hastle and just order the 40 strand one:
   https://secure.reichelt.nl/nl/nl/vlakbandkabel-awg28-40-pol-grijs-3m-ring-awg-28-40g-3m-p47647.html
   
+## Controls
+  ### The 'button' switches are simple 6x6x5mm large switches:
+    I bought them from here, but because they were available in Spain, rather than China: https://nl.aliexpress.com/item/4001027531274.html
+  ### The dual-axis encoders have three options (You need 5 per screen):
+  - with switches can be made by 3d printing a 'complicated' construction and using single-encoders: https://www.thingiverse.com/thing:4373531
+  - or you can just order the $7 Aliexpress ones: https://nl.aliexpress.com/item/33052809089.html  TODO: do these work?
+  - or the really expensive Leobodnar verion: http://www.leobodnar.com/shop/index.php?main_page=product_info&cPath=98_75&products_id=196
+  ### For the single-encoders with push-button (volume and HDG) you need the EC11 type at 15mm high and 'D'-shaped: https://nl.aliexpress.com/item/32856068930.html
+  ### For the pan/tilt button you need to either get a really expensive ALPS one (no link, sorry) or 'create' one: https://www.thingiverse.com/thing:4222606
+  
+  
 # TBM930
 ## The TBM930 alarm and warning buttons can be found here:
   https://www.amazon.co.uk/gp/product/B08KGX2Z4D
   https://www.amazon.co.uk/gp/product/B0744QQK1N
-  (I have not received them yet, but expect them to be correct. Will update this once they come in).
+  TODO: Do they work?
+  
+## The small TLC 580 controllers 
+  I have found a 5.7" screen with a touch-screen overlay: https://nl.aliexpress.com/item/1005002039170485.html
+  You will need an LVDS controller they are 'abound' on aliexpress: https://www.google.com/search?q=lvds+60+pin+hdmi+controller+aliexpress (make sure it suppors the resolution/interface!).
+  You will also need an i2c toucscreen cotroller. I have not been able to find on with 8-pin connector, 6-pin is more usual: https://nl.aliexpress.com/item/32794187793.html
+  You will also need 3 switches (probably 6x6x5mm) and a dual-rotary encoder and a single rotary encoder (see Generic section)
+  Minor hurdle, how do you match the touch-screen to the corrrect screen in widows. Like this, apparently: https://support.ctouch.eu/hc/en-us/articles/115003949829-How-can-I-setup-multiple-touch-screens-in-Windows-10-
   
