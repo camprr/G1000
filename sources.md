@@ -47,6 +47,9 @@
   
   TODO: Do they work?
   
+## The G3000 screens are actually 16:9 and not 4:3
+  Found a nice screen in 12.1" for 1280x800 resolution. The LQ121K1LG52 can be found here: https://www.ebay.de/itm/362256208108
+  
 ## The small GTC 580 controllers 
   I have found a 5.7" screen with a touch-screen overlay: https://nl.aliexpress.com/item/1005002039170485.html
   
